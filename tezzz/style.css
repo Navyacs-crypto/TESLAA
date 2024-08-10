@@ -1,0 +1,359 @@
+body{
+    margin: 0;
+}
+.page1{
+    background-image: url(Homepage-Model-3-Desktop-US.jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.image{
+    width: 116px;
+    height: 13px;
+    margin-left: 49px;
+    margin-top: 25px;
+}
+.head{
+    display: flex;
+}
+.center-nav ul{
+    display: flex;
+    color: white;
+    list-style-type: none;
+    font-weight: 600;
+
+    
+}
+.center-nav li{
+      padding-right:25px ;
+      
+}
+.center-nav{
+    margin-left: 366px;
+    margin-top: 26px;
+}
+.head-icon{
+    padding-left: 384px;;
+    margin-top: 5px;
+}
+#icon{
+    padding-right: 15px;
+
+}
+.head1{
+    color: white;
+   
+    font-size: 54px;
+}
+.link1{
+    color: white;
+   
+    font-size: 30px;
+}
+.para1{
+    color: white;
+    font-size: 18px;
+}
+.model-3{
+    text-align: center;
+    line-height: .5;
+    font-weight: 700;
+}
+.order1,.demo1{
+    width: 250px;
+    height: 40px;
+}
+.order1{
+   background-color: rgb(66, 66, 237);
+   color: white;
+   border-radius: 5px;
+   margin-right: 14px;
+   border-radius: 5px;
+   border: 0;
+   
+}
+
+.demo1{
+    background-color:white;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    border: 0;
+    
+    
+}
+.button{
+    text-align: center;
+    padding-top: 450px;
+    border-radius: 5px;
+    border: 0px;
+}
+.page2{
+    background-image: url(model--y.avif);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.head2{
+    color: white;
+   
+    font-size: 54px;
+    padding-top: 95px;
+    margin-top: 0px;
+}
+.link2{
+    color: white;
+   
+    font-size: 30px;
+}
+.para2{
+    color: white;
+    font-size: 18px;
+}
+.page3{
+    background-image: url(model--x.avif);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.head3{
+    color: white;
+   
+    font-size: 54px;
+    padding-top: 95px;
+    margin-top: 0px;
+}
+.link3{
+    color: white;
+   
+    font-size: 18px;
+    line-height: 1;
+}
+.para3{
+    color: white;
+    font-size: 27px;
+
+}
+.model-x{
+    text-align: center;
+    line-height: .25;
+    font-weight: 700;
+}
+.page4{
+    background-image: url(model--s.avif);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.head4{
+    color: white;
+   
+    font-size: 54px;
+    padding-top: 95px;
+    margin-top: 0px;
+}
+.link4{
+    color: white;
+   
+    font-size: 18px;
+    line-height: 1;
+}
+.para4{
+    color: white;
+    font-size: 27px;
+
+}
+.model-s{
+    text-align: center;
+    line-height: .25;
+    font-weight: 700;
+}
+.page5{
+    background-image: url(spark.avif);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+
+}
+.order2,.demo2{
+    width: 250px;
+    height: 40px;
+}
+.order2{
+   background-color: #171a20;
+   color: white;
+   border-radius: 5px;
+   margin-right: 14px;
+   border-radius: 5px;
+   border: 0;
+  
+   
+}
+
+.demo2{
+    background-color:#171a20;
+    color: white;
+    border-radius: 5px;
+    border:0;
+    
+    
+}
+.button2{
+    text-align: center;
+    padding-top: 515px;
+    border-radius: 5px;
+    border: 0px;
+}
+.sparkim{
+    width: 32%;
+    height: 4%;
+    margin-left: 496px;
+    margin-top: 40px;
+}
+.page6{
+    background-image: url(solarpanel.avif);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+
+}
+.solar{
+    text-align: center;
+    line-height: .5;
+    font-weight: 700;
+}
+.head5{
+    color: white;
+   
+    font-size: 58px;
+    padding-top: 95px;
+    margin-top: 0px;
+}
+.link5{
+    color: white;
+   
+    font-size: 30px;
+
+}
+.page7{
+    background-image: url(solar\ roof.avif);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.head6{
+    color: white;
+   
+    font-size: 54px;
+    padding-top: 95px;
+    margin-top: 0px;
+}
+.para7{
+    color: white;
+    font-size: 27px;
+ 
+}
+.page8{
+    background-image: url(powerwall.avif);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.head7{
+    color: white;
+    font-size: 63px;
+    text-align: center;
+    padding-top: 95px;
+    margin-top: 0px;
+ 
+}
+.page9{
+    background-image: url(accer.avif);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.head8{
+    color: white;
+    font-size: 56px;
+    text-align: center;
+    padding-top: 95px;
+    margin-top: 0px;
+}
+.button3{
+    text-align: center;
+    padding-top: 480px;
+    border-radius: 5px;
+    border: 0px;
+}
+.order3{
+    background-color: rgb(66, 66, 237);
+    color: white;
+    border-radius: 5px;
+    margin-right: 14px;
+    border-radius: 5px;
+    border: 0;
+    width: 250px;
+    height: 40px;
+    
+}
+.footer{
+    height: 600px;
+    width: 100%;
+    background-color: black;
+    margin-top: -20px;
+    line-height: 2px;
+
+}
+.footerp1{
+    color: white;
+    text-align: center;
+    
+    padding-block-end: 24px;
+    font-size: 12px;
+    line-height: 20px;
+    box-sizing: border-box;
+    padding-top: 40px;
+    
+}
+.f1{
+    color: white;
+}
+.footerp2{
+    color: white;
+    text-align: center;
+    
+    padding-block-end: 24px;
+    font-size: 12px;
+    line-height: 20px;
+    box-sizing: border-box;
+    padding-top: 0px;
+    margin-top:-21px;
+
+}
+
+.final{
+   margin-left: 10px;
+}
+.final1{
+    padding-right:25px ;
+    color:white;
+    display: flex;
+    list-style-type: none;
+    font-weight: 400;
+    padding-left: 512px; 
+    font-size: 11px; 
+}
+.one{
+    margin-right: 10px;
+}
+
+
